@@ -1,0 +1,53 @@
+:root {
+  --primary-color: #F0F0E0;
+  --secondary-color: #ededed;
+  --tertiary-color: #011E2E;
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background: linear-gradient(to bottom, #011e2e, #03adad, #f2e205);
+}
+
+.header {
+  text-align: center;
+  margin: 0;
+}
+
+.header img {
+  width: 100%;
+}
+
+.main a {
+  text-decoration: none;
+  color:#fda102;
+}
+
+h2 {
+  color: var(--secondary-color);
+}
+
+.routes-description, .footer {
+  font-style: oblique;
+}
+
+.routes-description {
+  color: var(--secondary-color);
+  font-size: 14px;
+  background-color: var(--tertiary-color);
+  padding: 10px;
+  width: 65%;
+}
+
+.route-label {
+  color: var(--secondary-color);
+  background-color: var(--tertiary-color);
+}
+  
+.footer {
+  font-size: 12px;
+  color: #222222;
+  margin: 5px 0;
+}
