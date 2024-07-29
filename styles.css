@@ -1,32 +1,60 @@
 :root {
   --primary-color: #F0F0E0;
   --secondary-color: #ededed;
-  --tertiary-color: #011E2E;
+  --tertiary-color: #0c344a;
   font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
 }
 
 body {
   margin: 0;
   text-align: center;
-  background: linear-gradient(to bottom, #011e2e, #03adad, #f2e205);
+  background: linear-gradient(to bottom, #062e44, #03adad, #f2e205);
 }
 
 .header {
+  display: block;
   text-align: center;
   margin: 0;
+  padding: 0;
 }
 
 .header img {
   width: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.main {
+  margin: 0;
+  padding: 0;
 }
 
 .main a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
   color:#fda102;
+}
+
+.main a:hover {
+  color: #f2e205;
 }
 
 h2 {
   color: var(--secondary-color);
+  font-size: 32px;
+}
+
+.map-container {
+  margin: 0px;
+  padding: 0px;
+}
+
+.under, .over {
+  font-style: oblique;
+  color: #fda102;
 }
 
 .routes-description, .footer {
@@ -35,19 +63,75 @@ h2 {
 
 .routes-description {
   color: var(--secondary-color);
-  font-size: 14px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: var(--tertiary-color);
-  padding: 10px;
-  width: 65%;
+  padding: 5px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 .route-label {
   color: var(--secondary-color);
+  font-size: 16px;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.bg-blue {
   background-color: var(--tertiary-color);
+  padding: 8px;
+  border-radius: 8px;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+}
+
+.distance {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-size: 22px;
+  color: #fda102;
+}
+
+iframe {
+  margin: 5px 5px;
+}
+
+.route-link {
+  color: var(--primary-color);
+  font-size: 16px;
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.trouble-link {
+  background-color: var(--tertiary-color);
+  padding: 8px;
+  border-radius: 8px;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+  border: 2px double #ced6db;
 }
   
 .footer {
   font-size: 12px;
-  color: #222222;
-  margin: 5px 0;
+  color: #3B3B3B;
+  margin: 5px 3px;
+}
+
+.footer a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  color: #3B3B3B;
+}
+
+.footer a:hover {
+  font-weight: bolder;
 }
