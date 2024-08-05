@@ -127,6 +127,10 @@ h2 {
   margin: 5px auto;
   border: 2px double #ced6db;
 }
+
+hr {
+  margin: 15px 0;
+}
   
 .footer {
   font-size: 12px;
