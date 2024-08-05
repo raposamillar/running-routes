@@ -63,6 +63,7 @@ h2 {
 .under, .over {
   font-style: oblique;
   color: #fda102;
+  margin-top: 10px;
 }
 
 .routes-description, .footer {
