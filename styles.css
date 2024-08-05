@@ -135,11 +135,3 @@ iframe {
 .footer a:hover {
   font-weight: bolder;
 }
-
-/* Mobile (Portrait) */
-@media (max-width: 400px) {
-  iframe {
-    width: 200px;
-    height: 200px;
-  }
-}
