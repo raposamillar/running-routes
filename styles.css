@@ -136,11 +136,3 @@ iframe {
 .footer a:hover {
   font-weight: bolder;
 }
-
-/* Mobile (Portrait) */ 
-@media (max-width: 480px) {
-  .map-container {
-    width: 325px;
-    height: 325px;
-  }
-}
