@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 :root {
   --primary-color: #F0F0E0;
   --secondary-color: #ededed;
@@ -6,7 +12,7 @@
 }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   text-align: center;
   background: linear-gradient(to bottom, #062e44, #03adad, #f2e205);
@@ -124,7 +130,8 @@ h2 {
 .footer {
   font-size: 12px;
   color: #3B3B3B;
-  margin: 5px 3px;
+  margin: 10px 3px;
+  line-height: 1.75;
 }
 
 .footer a {
