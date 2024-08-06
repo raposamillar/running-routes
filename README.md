@@ -16,7 +16,7 @@ This is an open source application. Anyone who would like to collaborate or cont
 ## License
 MIT License
 
-Copyright (c) [2024] [Lisa Raposa Millar]
+Copyright (c) 2024 Lisa Raposa Millar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
