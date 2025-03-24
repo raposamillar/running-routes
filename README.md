@@ -2,6 +2,7 @@
 
 ## Description
 A collection of routes used by a local group of runners in Etobicoke, Ontario, Canada.
+March 2025 Update: Mobile app design in-progress. Figma URL coming soon.
 
 ## Features
 - Routes under and over 10K
