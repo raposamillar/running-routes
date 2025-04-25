@@ -13,27 +13,9 @@ A collection of routes used by a local group of runners in Etobicoke, Ontario, C
 [https://raposamillar.github.io/running-routes/](https://raposamillar.github.io/running-routes/)
 
 ## Contributing
-This is an open source application. Anyone who would like to collaborate or contribute is encouraged to fork the code. Suggestions for improvement also may be sent directly by email to: lisa.raposamillar@gmail.com .
+This application is not open source. Contributions, such as suggestions for improvement, are welcome and may be sent directly by email to: lisa.raposamillar@gmail.com. However, forking, modifying, or creating derivative works of this application is not permitted under the current license.
 
 ## License
-MIT License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-Copyright (c) 2024 Lisa Raposa Millar
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are free to share this application as long as you provide proper attribution, but you may not use it for commercial purposes or create derivative works. For more details, see the [LICENSE](./LICENSE) file.
